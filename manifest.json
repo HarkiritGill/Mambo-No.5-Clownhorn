@@ -1,0 +1,8 @@
+{
+    "name": "Mambo No.5 ClownHorn",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/HarkiritGill/Mercurys-Company",
+    "description": "Ladies and gentlemen, this is the Mambo No.5 Clownhorn mod. The clownhorn is replaced with the first note from Mambo No.5.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100", "Clementinise-CustomSounds-2.3.2",
+"no00ob-LCSoundTool-1.5.0"]
+}
